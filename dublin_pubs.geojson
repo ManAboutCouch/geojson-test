@@ -1,0 +1,7590 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-03-27T19:14:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/52304330",
+      "properties": {
+        "@id": "way/52304330",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Porterhouse North"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2715748,
+              53.3647973
+            ],
+            [
+              -6.2715852,
+              53.364732
+            ],
+            [
+              -6.2715708,
+              53.3646712
+            ],
+            [
+              -6.2712674,
+              53.3645976
+            ],
+            [
+              -6.2712397,
+              53.3646639
+            ],
+            [
+              -6.2712201,
+              53.3647169
+            ],
+            [
+              -6.2715748,
+              53.3647973
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/80567253",
+      "properties": {
+        "@id": "way/80567253",
+        "addr:city": "Dublin",
+        "addr:country": "IE",
+        "addr:street": "Jervis Street/Mary Street",
+        "amenity": "pub",
+        "building": "yes",
+        "email": "reservations@thechurch.ie",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "The Church",
+        "phone": "+353 1 8280102",
+        "website": "http://www.thechurch.ie"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2667947,
+              53.3486729
+            ],
+            [
+              -6.2668087,
+              53.3486532
+            ],
+            [
+              -6.2668193,
+              53.348655
+            ],
+            [
+              -6.2668618,
+              53.3486556
+            ],
+            [
+              -6.2668626,
+              53.3486619
+            ],
+            [
+              -6.2671359,
+              53.3486208
+            ],
+            [
+              -6.2671319,
+              53.3486045
+            ],
+            [
+              -6.2671886,
+              53.3485937
+            ],
+            [
+              -6.2671767,
+              53.3485607
+            ],
+            [
+              -6.2672004,
+              53.348557
+            ],
+            [
+              -6.2671788,
+              53.3484935
+            ],
+            [
+              -6.2671514,
+              53.3484953
+            ],
+            [
+              -6.2671375,
+              53.3484567
+            ],
+            [
+              -6.2670739,
+              53.3484634
+            ],
+            [
+              -6.2670676,
+              53.3484542
+            ],
+            [
+              -6.2667884,
+              53.3484917
+            ],
+            [
+              -6.2667936,
+              53.3485003
+            ],
+            [
+              -6.266752,
+              53.3485103
+            ],
+            [
+              -6.2667352,
+              53.3485275
+            ],
+            [
+              -6.2667206,
+              53.3485484
+            ],
+            [
+              -6.2666686,
+              53.3485531
+            ],
+            [
+              -6.2666993,
+              53.3486417
+            ],
+            [
+              -6.2667477,
+              53.3486325
+            ],
+            [
+              -6.2667817,
+              53.3486485
+            ],
+            [
+              -6.2667893,
+              53.3486498
+            ],
+            [
+              -6.2667756,
+              53.3486678
+            ],
+            [
+              -6.2667575,
+              53.3486677
+            ],
+            [
+              -6.2667371,
+              53.3486729
+            ],
+            [
+              -6.2667227,
+              53.3486833
+            ],
+            [
+              -6.2667178,
+              53.3486948
+            ],
+            [
+              -6.266725,
+              53.348711
+            ],
+            [
+              -6.2667389,
+              53.3487197
+            ],
+            [
+              -6.2667591,
+              53.3487244
+            ],
+            [
+              -6.2667846,
+              53.3487224
+            ],
+            [
+              -6.2668023,
+              53.3487148
+            ],
+            [
+              -6.2668132,
+              53.3487013
+            ],
+            [
+              -6.2668129,
+              53.3486898
+            ],
+            [
+              -6.2668075,
+              53.3486815
+            ],
+            [
+              -6.2667947,
+              53.3486729
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/80580032",
+      "properties": {
+        "@id": "way/80580032",
+        "addr:housenumber": "51",
+        "addr:street": "Haddington Road",
+        "amenity": "pub",
+        "building": "yes",
+        "internet_access": "no",
+        "microbrewery": "no",
+        "name": "The Fifty One"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2425193,
+              53.3346791
+            ],
+            [
+              -6.2424131,
+              53.3345537
+            ],
+            [
+              -6.2423311,
+              53.3345784
+            ],
+            [
+              -6.2424372,
+              53.3347039
+            ],
+            [
+              -6.2425193,
+              53.3346791
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/84017579",
+      "properties": {
+        "@id": "way/84017579",
+        "addr:housenumber": "115-119",
+        "addr:street": "Haddington Road",
+        "amenity": "pub",
+        "building": "house",
+        "levels": "2",
+        "name": "Beggar's Bush (Jack Ryans)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2368241,
+              53.3362668
+            ],
+            [
+              -6.2366311,
+              53.336322
+            ],
+            [
+              -6.236728,
+              53.3364427
+            ],
+            [
+              -6.236921,
+              53.3363874
+            ],
+            [
+              -6.2368241,
+              53.3362668
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/84018113",
+      "properties": {
+        "@id": "way/84018113",
+        "addr:housenumber": "36",
+        "addr:street": "Baggot Street Upper",
+        "amenity": "pub",
+        "building": "yes",
+        "food": "yes",
+        "name": "The Waterloo"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2433631,
+              53.3333547
+            ],
+            [
+              -6.2431786,
+              53.3335119
+            ],
+            [
+              -6.2432758,
+              53.3335526
+            ],
+            [
+              -6.2434604,
+              53.3333954
+            ],
+            [
+              -6.2433631,
+              53.3333547
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/84018119",
+      "properties": {
+        "@id": "way/84018119",
+        "addr:housenumber": "42",
+        "addr:street": "Baggot Street Upper",
+        "amenity": "pub",
+        "building": "yes",
+        "food": "yes",
+        "name": "Searson's"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2430714,
+              53.3332326
+            ],
+            [
+              -6.2428868,
+              53.3333898
+            ],
+            [
+              -6.2429841,
+              53.3334305
+            ],
+            [
+              -6.2431686,
+              53.3332733
+            ],
+            [
+              -6.2430714,
+              53.3332326
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/102694943",
+      "properties": {
+        "@id": "way/102694943",
+        "addr:housenumber": "35",
+        "addr:street": "Sir John Rogerson's Quay",
+        "amenity": "pub",
+        "building": "yes",
+        "email": "reservation@ferrymanhotel.com",
+        "fax": "+35316718704",
+        "food": "yes",
+        "name": "Ferryman",
+        "phone": "+35316717053",
+        "smoking": "no",
+        "tourism": "hotel",
+        "website": "http://www.ferrymanhotel.com/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2405795,
+              53.3460578
+            ],
+            [
+              -6.2406406,
+              53.3460621
+            ],
+            [
+              -6.2407838,
+              53.3460722
+            ],
+            [
+              -6.2408065,
+              53.3459578
+            ],
+            [
+              -6.2406022,
+              53.3459434
+            ],
+            [
+              -6.2405795,
+              53.3460578
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/109227159",
+      "properties": {
+        "@id": "way/109227159",
+        "addr:housenumber": "148",
+        "addr:street": "Leeson Street Upper",
+        "amenity": "pub",
+        "building": "house",
+        "levels": "2",
+        "name": "Leeson Lounge"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2520545,
+              53.3313729
+            ],
+            [
+              -6.251953,
+              53.3313274
+            ],
+            [
+              -6.2518478,
+              53.3313035
+            ],
+            [
+              -6.2518053,
+              53.3313767
+            ],
+            [
+              -6.2519105,
+              53.3314244
+            ],
+            [
+              -6.2520545,
+              53.3313729
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/109227199",
+      "properties": {
+        "@id": "way/109227199",
+        "addr:housenumber": "8-9",
+        "addr:street": "Sussex Terrace",
+        "amenity": "pub",
+        "building": "house",
+        "levels": "2",
+        "name": "M. O'Brien",
+        "website": "http://www.m-obriens.ie/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2517798,
+              53.331285
+            ],
+            [
+              -6.2516045,
+              53.331286
+            ],
+            [
+              -6.2516126,
+              53.3314448
+            ],
+            [
+              -6.2517443,
+              53.3314436
+            ],
+            [
+              -6.2517801,
+              53.3313743
+            ],
+            [
+              -6.2517798,
+              53.331285
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/109246484",
+      "properties": {
+        "@id": "way/109246484",
+        "addr:housenumber": "1-1A",
+        "addr:street": "Baggot Street Upper",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "The Wellington"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2454507,
+              53.3338708
+            ],
+            [
+              -6.2453305,
+              53.3337868
+            ],
+            [
+              -6.2451633,
+              53.33385
+            ],
+            [
+              -6.2452835,
+              53.333934
+            ],
+            [
+              -6.2454507,
+              53.3338708
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/109370672",
+      "properties": {
+        "@id": "way/109370672",
+        "addr:housenumber": "10",
+        "addr:street": "Haddington Road",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Smyth's"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2436577,
+              53.3348382
+            ],
+            [
+              -6.2433182,
+              53.3346543
+            ],
+            [
+              -6.2432147,
+              53.3347224
+            ],
+            [
+              -6.2435542,
+              53.3349063
+            ],
+            [
+              -6.2436577,
+              53.3348382
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/111184730",
+      "properties": {
+        "@id": "way/111184730",
+        "addr:housenumber": "9",
+        "addr:street": "Grand Canal Street Lower",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Becky Morgan's"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2422558,
+              53.3397042
+            ],
+            [
+              -6.242086,
+              53.3396338
+            ],
+            [
+              -6.2420304,
+              53.3396815
+            ],
+            [
+              -6.2422002,
+              53.339752
+            ],
+            [
+              -6.2422558,
+              53.3397042
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/115086421",
+      "properties": {
+        "@id": "way/115086421",
+        "addr:street": "Grand Canal Street Upper",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "The Gasworks"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.237698,
+              53.337949
+            ],
+            [
+              -6.2374194,
+              53.3378711
+            ],
+            [
+              -6.2373045,
+              53.3380176
+            ],
+            [
+              -6.237583,
+              53.3380955
+            ],
+            [
+              -6.237698,
+              53.337949
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/129750566",
+      "properties": {
+        "@id": "way/129750566",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Four Roads Pub"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2965296,
+              53.3243394
+            ],
+            [
+              -6.2963743,
+              53.3242893
+            ],
+            [
+              -6.296205,
+              53.3244769
+            ],
+            [
+              -6.2963602,
+              53.3245269
+            ],
+            [
+              -6.2965296,
+              53.3243394
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/129774682",
+      "properties": {
+        "@id": "way/129774682",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "The Royal Oak",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.3035425,
+              53.3415601
+            ],
+            [
+              -6.3031834,
+              53.3415738
+            ],
+            [
+              -6.3031895,
+              53.3416302
+            ],
+            [
+              -6.3035485,
+              53.3416165
+            ],
+            [
+              -6.3035425,
+              53.3415601
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/130774599",
+      "properties": {
+        "@id": "way/130774599",
+        "alt_name": "The Brian Boru",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Hedigans"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2719295,
+              53.3653074
+            ],
+            [
+              -6.2720153,
+              53.3653138
+            ],
+            [
+              -6.2720207,
+              53.3653362
+            ],
+            [
+              -6.2720851,
+              53.3653298
+            ],
+            [
+              -6.2721602,
+              53.3653555
+            ],
+            [
+              -6.2722192,
+              53.3653426
+            ],
+            [
+              -6.2721602,
+              53.3653042
+            ],
+            [
+              -6.2723104,
+              53.3653202
+            ],
+            [
+              -6.2723211,
+              53.3652562
+            ],
+            [
+              -6.2719241,
+              53.3652178
+            ],
+            [
+              -6.2719295,
+              53.3653074
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/227764081",
+      "properties": {
+        "@id": "way/227764081",
+        "addr:city": "Dublin",
+        "addr:housenumber": "22",
+        "addr:street": "Aston Quay",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Fitzgerald's"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2596902,
+              53.3466782
+            ],
+            [
+              -6.2596804,
+              53.3465778
+            ],
+            [
+              -6.2596202,
+              53.3465793
+            ],
+            [
+              -6.2596175,
+              53.3466974
+            ],
+            [
+              -6.2596902,
+              53.3466782
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/227766039",
+      "properties": {
+        "@id": "way/227766039",
+        "addr:city": "Dublin",
+        "addr:housenumber": "31",
+        "addr:street": "Bachelors Walk",
+        "amenity": "pub",
+        "building": "pub",
+        "name": "Bachelor Inn",
+        "note": "Dublin City Council, Record of Protected Structures (2010), no. 327"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2602182,
+              53.3474069
+            ],
+            [
+              -6.2601078,
+              53.3474285
+            ],
+            [
+              -6.2601411,
+              53.347527
+            ],
+            [
+              -6.2602515,
+              53.3475107
+            ],
+            [
+              -6.2602469,
+              53.3474963
+            ],
+            [
+              -6.2602182,
+              53.3474069
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/227766040",
+      "properties": {
+        "@id": "way/227766040",
+        "addr:housenumber": "30",
+        "addr:street": "Bachelors Walk",
+        "amenity": "pub",
+        "building": "yes",
+        "food": "yes",
+        "name": "O'Connell's",
+        "note": "Dublin City Council, Record of Protected Structures (2010), no. 326",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2603181,
+              53.3473843
+            ],
+            [
+              -6.2602182,
+              53.3474069
+            ],
+            [
+              -6.2602469,
+              53.3474963
+            ],
+            [
+              -6.2603529,
+              53.3474845
+            ],
+            [
+              -6.2603181,
+              53.3473843
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/227826822",
+      "properties": {
+        "@id": "way/227826822",
+        "addr:city": "Dublin",
+        "addr:country": "IE",
+        "addr:housenumber": "10-11",
+        "addr:street": "Townsend Street",
+        "amenity": "pub",
+        "building": "pub",
+        "building:levels": "3",
+        "name": "The Long Stone"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2557665,
+              53.3459624
+            ],
+            [
+              -6.2556055,
+              53.3459589
+            ],
+            [
+              -6.2556022,
+              53.3461395
+            ],
+            [
+              -6.255752,
+              53.34614
+            ],
+            [
+              -6.2557665,
+              53.3459624
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/228284413",
+      "properties": {
+        "@id": "way/228284413",
+        "amenity": "pub",
+        "building": "pub",
+        "name": "Kennedy's"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2547194,
+              53.3473727
+            ],
+            [
+              -6.2548378,
+              53.3473762
+            ],
+            [
+              -6.2548455,
+              53.3472818
+            ],
+            [
+              -6.2547271,
+              53.3472783
+            ],
+            [
+              -6.2547194,
+              53.3473727
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/228284414",
+      "properties": {
+        "@id": "way/228284414",
+        "addr:street": "Poolbeg Street",
+        "amenity": "pub",
+        "building": "pub",
+        "name": "Mulligan's"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2555791,
+              53.3468638
+            ],
+            [
+              -6.2554416,
+              53.3468613
+            ],
+            [
+              -6.2554364,
+              53.3469452
+            ],
+            [
+              -6.2554885,
+              53.3469463
+            ],
+            [
+              -6.2554833,
+              53.3470317
+            ],
+            [
+              -6.2555471,
+              53.3470331
+            ],
+            [
+              -6.2555524,
+              53.3469477
+            ],
+            [
+              -6.2555739,
+              53.3469482
+            ],
+            [
+              -6.255572,
+              53.346976
+            ],
+            [
+              -6.2556238,
+              53.3469772
+            ],
+            [
+              -6.2556251,
+              53.3469572
+            ],
+            [
+              -6.2556805,
+              53.3469584
+            ],
+            [
+              -6.2556868,
+              53.3468658
+            ],
+            [
+              -6.2555791,
+              53.3468638
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/228287775",
+      "properties": {
+        "@id": "way/228287775",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Cassidy's"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2587863,
+              53.3463201
+            ],
+            [
+              -6.2587896,
+              53.3463821
+            ],
+            [
+              -6.2589647,
+              53.3463795
+            ],
+            [
+              -6.2589642,
+              53.3463179
+            ],
+            [
+              -6.2587863,
+              53.3463201
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/228290004",
+      "properties": {
+        "@id": "way/228290004",
+        "addr:housenumber": "31",
+        "addr:street": "Fleet Street",
+        "amenity": "pub",
+        "building": "pub",
+        "name": "Bowes",
+        "phone": "+353 1 6714038"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2578927,
+              53.3458555
+            ],
+            [
+              -6.2580046,
+              53.3458524
+            ],
+            [
+              -6.2579818,
+              53.3457299
+            ],
+            [
+              -6.2578709,
+              53.3457381
+            ],
+            [
+              -6.257878,
+              53.3457765
+            ],
+            [
+              -6.2578927,
+              53.3458555
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/228290010",
+      "properties": {
+        "@id": "way/228290010",
+        "addr:city": "Dublin",
+        "addr:housenumber": "8",
+        "addr:street": "College Street",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "O'Donohoe's"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2577031,
+              53.3456818
+            ],
+            [
+              -6.2576131,
+              53.3457038
+            ],
+            [
+              -6.2576501,
+              53.3457563
+            ],
+            [
+              -6.2576594,
+              53.3457695
+            ],
+            [
+              -6.2577491,
+              53.3457472
+            ],
+            [
+              -6.2577031,
+              53.3456818
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/228290015",
+      "properties": {
+        "@id": "way/228290015",
+        "addr:city": "Dublin",
+        "addr:housenumber": "9",
+        "addr:street": "College Street",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Doyle's"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2575297,
+              53.345786
+            ],
+            [
+              -6.2576501,
+              53.3457563
+            ],
+            [
+              -6.2576131,
+              53.3457038
+            ],
+            [
+              -6.2575062,
+              53.3457299
+            ],
+            [
+              -6.2574696,
+              53.3457405
+            ],
+            [
+              -6.2574536,
+              53.3457557
+            ],
+            [
+              -6.257447,
+              53.3457837
+            ],
+            [
+              -6.2574545,
+              53.3458067
+            ],
+            [
+              -6.2574752,
+              53.3458286
+            ],
+            [
+              -6.2575043,
+              53.3458465
+            ],
+            [
+              -6.2575513,
+              53.3458572
+            ],
+            [
+              -6.2576893,
+              53.3458583
+            ],
+            [
+              -6.2576887,
+              53.3458011
+            ],
+            [
+              -6.2575447,
+              53.3458022
+            ],
+            [
+              -6.2575297,
+              53.345786
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/228762044",
+      "properties": {
+        "@id": "way/228762044",
+        "addr:city": "Dublin",
+        "addr:country": "IE",
+        "addr:housenumber": "7-8",
+        "addr:street": "Capel Street",
+        "amenity": "pub",
+        "building": "yes",
+        "lgbt": "bar",
+        "name": "Panti Bar",
+        "website": "http://www.pantibar.com/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2680254,
+              53.3466216
+            ],
+            [
+              -6.2679988,
+              53.3465569
+            ],
+            [
+              -6.2679642,
+              53.3465447
+            ],
+            [
+              -6.2675598,
+              53.3466032
+            ],
+            [
+              -6.2675698,
+              53.3466294
+            ],
+            [
+              -6.2676137,
+              53.3466235
+            ],
+            [
+              -6.267634,
+              53.3466771
+            ],
+            [
+              -6.2678288,
+              53.3466488
+            ],
+            [
+              -6.2680254,
+              53.3466216
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/228762046",
+      "properties": {
+        "@id": "way/228762046",
+        "addr:city": "Dublin",
+        "addr:country": "IE",
+        "addr:housenumber": "165",
+        "addr:street": "Capel Street",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Jack Nealon"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2681386,
+              53.3463454
+            ],
+            [
+              -6.2681689,
+              53.3464342
+            ],
+            [
+              -6.2683225,
+              53.3464155
+            ],
+            [
+              -6.2682922,
+              53.3463267
+            ],
+            [
+              -6.2682716,
+              53.3463293
+            ],
+            [
+              -6.2681386,
+              53.3463454
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/228968680",
+      "properties": {
+        "@id": "way/228968680",
+        "addr:housenumber": "1",
+        "addr:street": "Dame Court",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "The Stag's Head",
+        "website": "http://www.louisfitzgerald.com/stagshead"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.263714,
+              53.3437832
+            ],
+            [
+              -6.2635076,
+              53.3437895
+            ],
+            [
+              -6.2634291,
+              53.3437919
+            ],
+            [
+              -6.2634336,
+              53.3438445
+            ],
+            [
+              -6.2634648,
+              53.3438435
+            ],
+            [
+              -6.2637185,
+              53.3438358
+            ],
+            [
+              -6.2637163,
+              53.3438096
+            ],
+            [
+              -6.263714,
+              53.3437832
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/229061161",
+      "properties": {
+        "@id": "way/229061161",
+        "addr:city": "Dublin",
+        "addr:country": "IE",
+        "addr:housenumber": "140",
+        "addr:street": "Capel Street",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "J. McNeill"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2688306,
+              53.3477319
+            ],
+            [
+              -6.2688208,
+              53.3477328
+            ],
+            [
+              -6.2686632,
+              53.3477537
+            ],
+            [
+              -6.2686777,
+              53.3477944
+            ],
+            [
+              -6.2688453,
+              53.3477729
+            ],
+            [
+              -6.2688306,
+              53.3477319
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/229061164",
+      "properties": {
+        "@id": "way/229061164",
+        "alt_name": "P Slattery",
+        "amenity": "pub",
+        "building": "pub",
+        "name": "Slattery's"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2688305,
+              53.3482347
+            ],
+            [
+              -6.2688503,
+              53.3483125
+            ],
+            [
+              -6.2688681,
+              53.3483294
+            ],
+            [
+              -6.2688827,
+              53.3483337
+            ],
+            [
+              -6.2689286,
+              53.3483325
+            ],
+            [
+              -6.2690423,
+              53.3483206
+            ],
+            [
+              -6.2690089,
+              53.3482154
+            ],
+            [
+              -6.2689641,
+              53.3482202
+            ],
+            [
+              -6.2688305,
+              53.3482347
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/229061165",
+      "properties": {
+        "@id": "way/229061165",
+        "addr:housenumber": "149",
+        "addr:street": "Capel Street",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "The Boar's Head"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2685102,
+              53.3473643
+            ],
+            [
+              -6.268527,
+              53.347407
+            ],
+            [
+              -6.2686827,
+              53.3473839
+            ],
+            [
+              -6.2686891,
+              53.347383
+            ],
+            [
+              -6.2686714,
+              53.3473404
+            ],
+            [
+              -6.2685102,
+              53.3473643
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/229316784",
+      "properties": {
+        "@id": "way/229316784",
+        "alt_name": "Castle Lounge",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Grogan's",
+        "website": "http://groganspub.ie/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2628407,
+              53.3422815
+            ],
+            [
+              -6.2628836,
+              53.3422169
+            ],
+            [
+              -6.2626624,
+              53.3421645
+            ],
+            [
+              -6.2626195,
+              53.3422291
+            ],
+            [
+              -6.2628407,
+              53.3422815
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/229376152",
+      "properties": {
+        "@id": "way/229376152",
+        "addr:housenumber": "28",
+        "addr:street": "Thomas Street",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Arthur's"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.281725,
+              53.3431792
+            ],
+            [
+              -6.2817512,
+              53.3430714
+            ],
+            [
+              -6.2817167,
+              53.3430665
+            ],
+            [
+              -6.2817326,
+              53.343009
+            ],
+            [
+              -6.2816404,
+              53.343
+            ],
+            [
+              -6.2815935,
+              53.34317
+            ],
+            [
+              -6.281725,
+              53.3431792
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/229456566",
+      "properties": {
+        "@id": "way/229456566",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Baker's"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2788309,
+              53.3426114
+            ],
+            [
+              -6.2788119,
+              53.3427117
+            ],
+            [
+              -6.2789961,
+              53.3427242
+            ],
+            [
+              -6.2790151,
+              53.3426239
+            ],
+            [
+              -6.2788309,
+              53.3426114
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/230133865",
+      "properties": {
+        "@id": "way/230133865",
+        "addr:street": "Parliament Street",
+        "amenity": "pub",
+        "building": "yes",
+        "microbrewery": "yes",
+        "name": "Porterhouse",
+        "note": "Original site of the microbrewery. Serves a number of its own brew and serves food.",
+        "website": "www.porterhousebrewco.com",
+        "wifi": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2673298,
+              53.345166
+            ],
+            [
+              -6.2673464,
+              53.3452193
+            ],
+            [
+              -6.267539,
+              53.3451962
+            ],
+            [
+              -6.2675212,
+              53.3451442
+            ],
+            [
+              -6.2674897,
+              53.3450516
+            ],
+            [
+              -6.2674742,
+              53.3450396
+            ],
+            [
+              -6.2674482,
+              53.3450372
+            ],
+            [
+              -6.2674172,
+              53.3450376
+            ],
+            [
+              -6.2673549,
+              53.3450462
+            ],
+            [
+              -6.2673747,
+              53.3451177
+            ],
+            [
+              -6.2673166,
+              53.3451235
+            ],
+            [
+              -6.2673298,
+              53.345166
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/230357177",
+      "properties": {
+        "@id": "way/230357177",
+        "addr:city": "Dublin",
+        "addr:country": "IE",
+        "addr:housenumber": "1",
+        "addr:street": "Johnson's Place",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Peter's Pub"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2633496,
+              53.3408083
+            ],
+            [
+              -6.2632914,
+              53.3408172
+            ],
+            [
+              -6.263295,
+              53.3408349
+            ],
+            [
+              -6.2632721,
+              53.3408576
+            ],
+            [
+              -6.2631695,
+              53.3408379
+            ],
+            [
+              -6.2631301,
+              53.3408925
+            ],
+            [
+              -6.2633076,
+              53.3409358
+            ],
+            [
+              -6.2633662,
+              53.3408447
+            ],
+            [
+              -6.2633496,
+              53.3408083
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/230567954",
+      "properties": {
+        "@id": "way/230567954",
+        "addr:city": "Dublin",
+        "addr:housenumber": "17",
+        "addr:street": "Chatham Street",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Sheehan's",
+        "note": "Dublin City Council, Record of Protected Structures (2010), no. 1468"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.261723,
+              53.340912
+            ],
+            [
+              -6.2616968,
+              53.3409626
+            ],
+            [
+              -6.261843,
+              53.3409897
+            ],
+            [
+              -6.2618864,
+              53.3409963
+            ],
+            [
+              -6.2619132,
+              53.3409581
+            ],
+            [
+              -6.2619273,
+              53.3409377
+            ],
+            [
+              -6.261723,
+              53.340912
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/230613179",
+      "properties": {
+        "@id": "way/230613179",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Kehoe's"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.259426,
+              53.3412263
+            ],
+            [
+              -6.2595386,
+              53.3412375
+            ],
+            [
+              -6.2595631,
+              53.3411476
+            ],
+            [
+              -6.2594507,
+              53.3411357
+            ],
+            [
+              -6.259426,
+              53.3412263
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/231199022",
+      "properties": {
+        "@id": "way/231199022",
+        "addr:housenumber": "1",
+        "addr:street": "Merrion Row",
+        "amenity": "pub",
+        "building": "yes",
+        "names": "Foleys;O'Reilly's",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2538931,
+              53.3383107
+            ],
+            [
+              -6.2537049,
+              53.3382614
+            ],
+            [
+              -6.2536515,
+              53.3382474
+            ],
+            [
+              -6.2535957,
+              53.3383249
+            ],
+            [
+              -6.2536501,
+              53.3383389
+            ],
+            [
+              -6.2538038,
+              53.3383783
+            ],
+            [
+              -6.2538386,
+              53.3383873
+            ],
+            [
+              -6.2538539,
+              53.3383665
+            ],
+            [
+              -6.2538931,
+              53.3383107
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/231265715",
+      "properties": {
+        "@id": "way/231265715",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Lincoln's Inn",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2526178,
+              53.3419265
+            ],
+            [
+              -6.2524114,
+              53.3419473
+            ],
+            [
+              -6.2524671,
+              53.342058
+            ],
+            [
+              -6.2524808,
+              53.342085
+            ],
+            [
+              -6.2526179,
+              53.3420714
+            ],
+            [
+              -6.2526179,
+              53.3420485
+            ],
+            [
+              -6.2526178,
+              53.3419265
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/231340189",
+      "properties": {
+        "@id": "way/231340189",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Kennedy's"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2507696,
+              53.3422435
+            ],
+            [
+              -6.2507813,
+              53.3422239
+            ],
+            [
+              -6.2508356,
+              53.3421328
+            ],
+            [
+              -6.2506746,
+              53.3420986
+            ],
+            [
+              -6.2506086,
+              53.3422093
+            ],
+            [
+              -6.2507696,
+              53.3422435
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/232012714",
+      "properties": {
+        "@id": "way/232012714",
+        "addr:housenumber": "1-2",
+        "addr:street": "Powerscourt",
+        "amenity": "pub",
+        "building": "commercial",
+        "name": "Scruffy Murphy's"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2430206,
+              53.3378973
+            ],
+            [
+              -6.2428529,
+              53.3378302
+            ],
+            [
+              -6.2427856,
+              53.3378776
+            ],
+            [
+              -6.2426949,
+              53.3379372
+            ],
+            [
+              -6.2428773,
+              53.3379945
+            ],
+            [
+              -6.2430206,
+              53.3378973
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/233243884",
+      "properties": {
+        "@id": "way/233243884",
+        "amenity": "pub",
+        "building": "yes",
+        "food": "yes",
+        "name": "McGrattan's CafÃ© Bar"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2511976,
+              53.3384277
+            ],
+            [
+              -6.2509347,
+              53.3387108
+            ],
+            [
+              -6.2511093,
+              53.3387686
+            ],
+            [
+              -6.2512189,
+              53.3386505
+            ],
+            [
+              -6.2512671,
+              53.3386665
+            ],
+            [
+              -6.2513529,
+              53.3385741
+            ],
+            [
+              -6.2513047,
+              53.3385581
+            ],
+            [
+              -6.2513722,
+              53.3384855
+            ],
+            [
+              -6.2511976,
+              53.3384277
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/233666288",
+      "properties": {
+        "@id": "way/233666288",
+        "addr:city": "Dublin",
+        "addr:housenumber": "9-10",
+        "addr:street": "Jervis Street",
+        "amenity": "pub",
+        "building": "yes",
+        "contact:email": "tpsmithsjervisst@gmail.com",
+        "food": "yes",
+        "name": "T.P.Smiths",
+        "phone": "+353 1 878 2067",
+        "takeaway": "no",
+        "website": "http://www.thesmithgroup.ie/tpsmiths/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2660406,
+              53.3474048
+            ],
+            [
+              -6.2658313,
+              53.3474311
+            ],
+            [
+              -6.2658551,
+              53.3474911
+            ],
+            [
+              -6.2658984,
+              53.347485
+            ],
+            [
+              -6.2659796,
+              53.3474737
+            ],
+            [
+              -6.2660078,
+              53.3475473
+            ],
+            [
+              -6.2660926,
+              53.3475358
+            ],
+            [
+              -6.2660406,
+              53.3474048
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/233674051",
+      "properties": {
+        "@id": "way/233674051",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "H. Mathews"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2815868,
+              53.34738
+            ],
+            [
+              -6.2815301,
+              53.3475628
+            ],
+            [
+              -6.2816102,
+              53.3475717
+            ],
+            [
+              -6.2816669,
+              53.3473889
+            ],
+            [
+              -6.2815868,
+              53.34738
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/233790935",
+      "properties": {
+        "@id": "way/233790935",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "The Grand Central Bar"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2590762,
+              53.3482914
+            ],
+            [
+              -6.2591199,
+              53.3483838
+            ],
+            [
+              -6.2592304,
+              53.3483664
+            ],
+            [
+              -6.2592611,
+              53.3483608
+            ],
+            [
+              -6.2592777,
+              53.3483537
+            ],
+            [
+              -6.2592924,
+              53.3483385
+            ],
+            [
+              -6.2592991,
+              53.3483274
+            ],
+            [
+              -6.2592997,
+              53.3483174
+            ],
+            [
+              -6.2592743,
+              53.3482599
+            ],
+            [
+              -6.2590762,
+              53.3482914
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/233801731",
+      "properties": {
+        "@id": "way/233801731",
+        "addr:city": "Dublin",
+        "addr:country": "IE",
+        "addr:housenumber": "28",
+        "addr:street": "Eden Quay",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "The Pint",
+        "website": "http://www.thepint.ie/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2560774,
+              53.3483768
+            ],
+            [
+              -6.2560337,
+              53.3482698
+            ],
+            [
+              -6.2559227,
+              53.3482866
+            ],
+            [
+              -6.2559746,
+              53.3484092
+            ],
+            [
+              -6.2560841,
+              53.3483927
+            ],
+            [
+              -6.2560774,
+              53.3483768
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/233804973",
+      "properties": {
+        "@id": "way/233804973",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "The Grand Social"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2634264,
+              53.3469386
+            ],
+            [
+              -6.2636222,
+              53.3469147
+            ],
+            [
+              -6.2636513,
+              53.3468893
+            ],
+            [
+              -6.2636064,
+              53.3467668
+            ],
+            [
+              -6.2635076,
+              53.3467797
+            ],
+            [
+              -6.26354,
+              53.346868
+            ],
+            [
+              -6.2634069,
+              53.3468854
+            ],
+            [
+              -6.2634264,
+              53.3469386
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/234082876",
+      "properties": {
+        "@id": "way/234082876",
+        "addr:city": "Dublin",
+        "addr:housenumber": "43-44",
+        "addr:street": "Baggot Street Lower",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Larry Murphy's",
+        "note": "Dublin City Council, Record of Protected Structures (2010), no. 366"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2488008,
+              53.3369111
+            ],
+            [
+              -6.2488347,
+              53.3368806
+            ],
+            [
+              -6.2486459,
+              53.3367608
+            ],
+            [
+              -6.2485718,
+              53.3368088
+            ],
+            [
+              -6.2486285,
+              53.3368471
+            ],
+            [
+              -6.2488008,
+              53.3369111
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/244989701",
+      "properties": {
+        "@id": "way/244989701",
+        "addr:city": "Dublin",
+        "addr:country": "IE",
+        "addr:housenumber": "37",
+        "addr:street": "Pearse Street",
+        "amenity": "pub",
+        "building": "pub",
+        "name": "O'Neill's of Pearse Street"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2524336,
+              53.3448364
+            ],
+            [
+              -6.25237,
+              53.3448256
+            ],
+            [
+              -6.2523423,
+              53.3448343
+            ],
+            [
+              -6.2523187,
+              53.3449826
+            ],
+            [
+              -6.2524001,
+              53.3449878
+            ],
+            [
+              -6.2524103,
+              53.3449356
+            ],
+            [
+              -6.2524762,
+              53.3449507
+            ],
+            [
+              -6.2525221,
+              53.3448607
+            ],
+            [
+              -6.2525242,
+              53.3448533
+            ],
+            [
+              -6.2524336,
+              53.3448364
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/244989703",
+      "properties": {
+        "@id": "way/244989703",
+        "addr:city": "Dublin",
+        "addr:country": "IE",
+        "addr:housenumber": "37B",
+        "addr:street": "Pearse Street",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "The Trinity Inn"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2521542,
+              53.3448959
+            ],
+            [
+              -6.2521743,
+              53.3447968
+            ],
+            [
+              -6.252168,
+              53.3447908
+            ],
+            [
+              -6.2520948,
+              53.3447782
+            ],
+            [
+              -6.2520711,
+              53.3448721
+            ],
+            [
+              -6.2520662,
+              53.3448914
+            ],
+            [
+              -6.2521542,
+              53.3448959
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/245124093",
+      "properties": {
+        "@id": "way/245124093",
+        "addr:city": "Dublin",
+        "addr:housenumber": "9",
+        "addr:street": "Abbey Street Lower",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "The Flowing Tide",
+        "note": "Dublin CIty Council, Record of Protected Structures (2010), no. 2",
+        "source": "local_knowledge"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2578812,
+              53.3487761
+            ],
+            [
+              -6.2577613,
+              53.3487943
+            ],
+            [
+              -6.2578169,
+              53.3489249
+            ],
+            [
+              -6.2579368,
+              53.3489067
+            ],
+            [
+              -6.2578812,
+              53.3487761
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/246065619",
+      "properties": {
+        "@id": "way/246065619",
+        "addr:city": "Dublin",
+        "addr:country": "IE",
+        "addr:housenumber": "44",
+        "addr:street": "Townsend Street",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Ned's"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2520371,
+              53.3458374
+            ],
+            [
+              -6.2519534,
+              53.3458333
+            ],
+            [
+              -6.2519339,
+              53.3459759
+            ],
+            [
+              -6.2520176,
+              53.34598
+            ],
+            [
+              -6.2520371,
+              53.3458374
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/249212894",
+      "properties": {
+        "@id": "way/249212894",
+        "addr:city": "Dublin",
+        "addr:country": "IE",
+        "addr:housenumber": "139",
+        "addr:street": "Baggot Street Lower",
+        "amenity": "pub",
+        "building": "house",
+        "building:levels": "3",
+        "name": "James Toner",
+        "note": "Dublin City Council, Registry of Protected Structures (2010), no. 433"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2523659,
+              53.3377783
+            ],
+            [
+              -6.252451,
+              53.3377993
+            ],
+            [
+              -6.2525342,
+              53.3376794
+            ],
+            [
+              -6.25245,
+              53.3376586
+            ],
+            [
+              -6.2524491,
+              53.3376584
+            ],
+            [
+              -6.25244,
+              53.3376715
+            ],
+            [
+              -6.2523659,
+              53.3377783
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/249263084",
+      "properties": {
+        "@id": "way/249263084",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Bruxelles"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2608122,
+              53.3412882
+            ],
+            [
+              -6.2607686,
+              53.3413528
+            ],
+            [
+              -6.2609553,
+              53.3413979
+            ],
+            [
+              -6.2610013,
+              53.3413359
+            ],
+            [
+              -6.2608122,
+              53.3412882
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/249268180",
+      "properties": {
+        "@id": "way/249268180",
+        "addr:housenumber": "16",
+        "addr:street": "Trinity Street",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "The Bankers"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2626689,
+              53.3439165
+            ],
+            [
+              -6.2624099,
+              53.3439224
+            ],
+            [
+              -6.2624006,
+              53.3439268
+            ],
+            [
+              -6.2623934,
+              53.3439302
+            ],
+            [
+              -6.2625143,
+              53.3440111
+            ],
+            [
+              -6.2626778,
+              53.3440054
+            ],
+            [
+              -6.2626689,
+              53.3439165
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/250345931",
+      "properties": {
+        "@id": "way/250345931",
+        "addr:city": "Dublin",
+        "addr:housenumber": "31",
+        "addr:street": "Pembroke Street Lower",
+        "amenity": "pub",
+        "building": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.251716,
+              53.3370758
+            ],
+            [
+              -6.2517671,
+              53.3370202
+            ],
+            [
+              -6.2516303,
+              53.3369737
+            ],
+            [
+              -6.2515762,
+              53.3370286
+            ],
+            [
+              -6.251716,
+              53.3370758
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/250504040",
+      "properties": {
+        "@id": "way/250504040",
+        "addr:city": "Dublin",
+        "addr:housenumber": "78",
+        "addr:street": "Middle Abbey Street",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "The Oval",
+        "note": "Dublin CIty Council, Record of Protected Structures (2010), no. 17"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.260217,
+              53.3484122
+            ],
+            [
+              -6.260257,
+              53.3485204
+            ],
+            [
+              -6.2604241,
+              53.3485022
+            ],
+            [
+              -6.2603785,
+              53.3483901
+            ],
+            [
+              -6.260217,
+              53.3484122
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/251124279",
+      "properties": {
+        "@id": "way/251124279",
+        "addr:city": "Dublin",
+        "addr:housenumber": "19A",
+        "addr:street": "North Frederick Street",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Maye's"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2651629,
+              53.3557679
+            ],
+            [
+              -6.2652481,
+              53.3558445
+            ],
+            [
+              -6.2652789,
+              53.3558405
+            ],
+            [
+              -6.2653339,
+              53.355778
+            ],
+            [
+              -6.2653084,
+              53.3557716
+            ],
+            [
+              -6.2652609,
+              53.3557283
+            ],
+            [
+              -6.2651629,
+              53.3557679
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/251194993",
+      "properties": {
+        "@id": "way/251194993",
+        "addr:city": "Dublin",
+        "addr:housenumber": "3",
+        "addr:postcode": "2",
+        "addr:street": "Anglesea Street",
+        "amenity": "pub",
+        "building": "house",
+        "name": "The Vat House",
+        "note": "Dublin City Council, Record of Protected Structures (2010), no. 161",
+        "website": "http://www.vathouse.ie/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2619558,
+              53.3445868
+            ],
+            [
+              -6.261958,
+              53.3446627
+            ],
+            [
+              -6.2621384,
+              53.3446608
+            ],
+            [
+              -6.2621362,
+              53.3445849
+            ],
+            [
+              -6.2619558,
+              53.3445868
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/251404898",
+      "properties": {
+        "@id": "way/251404898",
+        "addr:city": "Dublin",
+        "addr:housenumber": "2",
+        "addr:street": "Church Lane",
+        "amenity": "pub",
+        "building": "yes",
+        "note": "Dublin City Council, Record of Protected Structures (2010), no. 1541"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.260854,
+              53.3440046
+            ],
+            [
+              -6.2608513,
+              53.3439521
+            ],
+            [
+              -6.2607487,
+              53.3439533
+            ],
+            [
+              -6.2607508,
+              53.3440062
+            ],
+            [
+              -6.2608448,
+              53.3440047
+            ],
+            [
+              -6.260854,
+              53.3440046
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/251404899",
+      "properties": {
+        "@id": "way/251404899",
+        "addr:city": "Dublin",
+        "addr:housename": "Burlington Building",
+        "addr:housenumber": "3",
+        "addr:street": "Church Lane",
+        "amenity": "pub",
+        "building": "yes",
+        "note": "Dublin City Council, Record of Protected Structures (2010), no. 1542"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2608513,
+              53.3439521
+            ],
+            [
+              -6.2608487,
+              53.3439101
+            ],
+            [
+              -6.2607474,
+              53.3439133
+            ],
+            [
+              -6.2607487,
+              53.3439533
+            ],
+            [
+              -6.2608513,
+              53.3439521
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/251404900",
+      "properties": {
+        "@id": "way/251404900",
+        "addr:city": "Dublin",
+        "addr:housenumber": "4",
+        "addr:street": "Church Lane",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "M.J. O'Neill",
+        "note": "Dublin City Council, Record of Protected Structures (2010), no. 1542"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2607528,
+              53.3438032
+            ],
+            [
+              -6.2606669,
+              53.3438509
+            ],
+            [
+              -6.2606736,
+              53.3439157
+            ],
+            [
+              -6.2607474,
+              53.3439133
+            ],
+            [
+              -6.2608487,
+              53.3439101
+            ],
+            [
+              -6.2608487,
+              53.3438937
+            ],
+            [
+              -6.2608466,
+              53.3438525
+            ],
+            [
+              -6.2608533,
+              53.3438501
+            ],
+            [
+              -6.2608198,
+              53.3438196
+            ],
+            [
+              -6.2608124,
+              53.3438224
+            ],
+            [
+              -6.2607528,
+              53.3438032
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/252713065",
+      "properties": {
+        "@id": "way/252713065",
+        "addr:city": "Dublin",
+        "addr:housenumber": "28",
+        "addr:street": "Dorset Street Lower",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "The Auld Triangle"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2615099,
+              53.3590102
+            ],
+            [
+              -6.2616348,
+              53.3590693
+            ],
+            [
+              -6.2617068,
+              53.3589905
+            ],
+            [
+              -6.2616012,
+              53.3589396
+            ],
+            [
+              -6.2615099,
+              53.3590102
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/252809417",
+      "properties": {
+        "@id": "way/252809417",
+        "addr:city": "Dublin",
+        "addr:housenumber": "150-151",
+        "addr:street": "Parnell Street",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "O'Reilley's - The Deer's Head"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2601776,
+              53.3534819
+            ],
+            [
+              -6.2603258,
+              53.3534191
+            ],
+            [
+              -6.2601689,
+              53.3532894
+            ],
+            [
+              -6.2600168,
+              53.3533558
+            ],
+            [
+              -6.2600904,
+              53.3534158
+            ],
+            [
+              -6.2601273,
+              53.3534463
+            ],
+            [
+              -6.2601332,
+              53.3534437
+            ],
+            [
+              -6.2601776,
+              53.3534819
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/252812514",
+      "properties": {
+        "@id": "way/252812514",
+        "addr:city": "Dublin",
+        "addr:housenumber": "160",
+        "addr:street": "Parnell Street",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "The Shakespeare"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.260889,
+              53.3530681
+            ],
+            [
+              -6.2607935,
+              53.3529931
+            ],
+            [
+              -6.2607148,
+              53.3530301
+            ],
+            [
+              -6.2608096,
+              53.3531034
+            ],
+            [
+              -6.260889,
+              53.3530681
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/260307464",
+      "properties": {
+        "@id": "way/260307464",
+        "addr:city": "Dublin",
+        "addr:housenumber": "23",
+        "addr:street": "Wicklow Street",
+        "amenity": "pub",
+        "building": "yes",
+        "building:levels": "4",
+        "name": "The International",
+        "website": "www.international-bar.com"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2617615,
+              53.3430754
+            ],
+            [
+              -6.26175,
+              53.3431402
+            ],
+            [
+              -6.2619371,
+              53.3431591
+            ],
+            [
+              -6.2619625,
+              53.343089
+            ],
+            [
+              -6.2617615,
+              53.3430754
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/261269400",
+      "properties": {
+        "@id": "way/261269400",
+        "addr:city": "Dublin 2",
+        "addr:housenumber": "15",
+        "addr:street": "Suffolk Street",
+        "amenity": "pub",
+        "building": "yes",
+        "building:levels": "4",
+        "name": "O'Donoghue's",
+        "website": "www.odonoghuespub.com"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2597632,
+              53.3434805
+            ],
+            [
+              -6.2598059,
+              53.3434424
+            ],
+            [
+              -6.2596804,
+              53.3433906
+            ],
+            [
+              -6.2596718,
+              53.3434091
+            ],
+            [
+              -6.2596906,
+              53.3434199
+            ],
+            [
+              -6.2596718,
+              53.3434432
+            ],
+            [
+              -6.2597632,
+              53.3434805
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/264741791",
+      "properties": {
+        "@id": "way/264741791",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "The Hairy Lemon"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2638009,
+              53.3412613
+            ],
+            [
+              -6.2637539,
+              53.3413175
+            ],
+            [
+              -6.2638941,
+              53.3413564
+            ],
+            [
+              -6.2640165,
+              53.3412279
+            ],
+            [
+              -6.2637997,
+              53.3411584
+            ],
+            [
+              -6.2637264,
+              53.341234
+            ],
+            [
+              -6.2638009,
+              53.3412613
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/268700611",
+      "properties": {
+        "@id": "way/268700611",
+        "addr:city": "Dublin",
+        "addr:housenumber": "26-28",
+        "addr:street": "Dame Street",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "The Mercantile",
+        "note": "DCC, Record of Protected Structures, no. 2105"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2640525,
+              53.3440805
+            ],
+            [
+              -6.2640418,
+              53.3439582
+            ],
+            [
+              -6.2640351,
+              53.3438627
+            ],
+            [
+              -6.2638161,
+              53.3438682
+            ],
+            [
+              -6.2638312,
+              53.344083
+            ],
+            [
+              -6.2640525,
+              53.3440805
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/268836002",
+      "properties": {
+        "@id": "way/268836002",
+        "addr:city": "Dublin",
+        "addr:housenumber": "40",
+        "addr:street": "Dawson Street",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Cafe en Seine",
+        "website": "http://www.cafeenseine.ie/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2585674,
+              53.3407504
+            ],
+            [
+              -6.2587707,
+              53.3407719
+            ],
+            [
+              -6.2587944,
+              53.3407013
+            ],
+            [
+              -6.258585,
+              53.3406806
+            ],
+            [
+              -6.2585674,
+              53.3407504
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/268836005",
+      "properties": {
+        "@id": "way/268836005",
+        "addr:city": "Dublin",
+        "addr:housenumber": "39",
+        "addr:street": "Dawson Street",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Cafe en Seine",
+        "website": "http://www.cafeenseine.ie/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.258585,
+              53.3406806
+            ],
+            [
+              -6.2588109,
+              53.3407041
+            ],
+            [
+              -6.2588285,
+              53.340644
+            ],
+            [
+              -6.2588203,
+              53.340644
+            ],
+            [
+              -6.2586022,
+              53.3406206
+            ],
+            [
+              -6.258585,
+              53.3406806
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/129954365",
+      "properties": {
+        "@id": "node/129954365",
+        "amenity": "pub",
+        "name": "The Harbourmaster"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2490911,
+          53.3497415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/130156802",
+      "properties": {
+        "@id": "node/130156802",
+        "addr:city": "Dublin",
+        "addr:country": "IE",
+        "addr:housenumber": "21",
+        "addr:street": "Store Street",
+        "amenity": "pub",
+        "name": "Le Monde"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.252673,
+          53.350062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/132626743",
+      "properties": {
+        "@id": "node/132626743",
+        "addr:city": "Dublin",
+        "addr:country": "IE",
+        "addr:housenumber": "15",
+        "addr:street": "Townsend Street",
+        "amenity": "pub",
+        "name": "MacTurcaill's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2553591,
+          53.3459919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/132775981",
+      "properties": {
+        "@id": "node/132775981",
+        "addr:city": "Dublin",
+        "addr:country": "IE",
+        "addr:housenumber": "1",
+        "addr:street": "Lombard Street East",
+        "amenity": "pub",
+        "name": "The Lombard",
+        "source": "visually identified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2490239,
+          53.3441892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/133193958",
+      "properties": {
+        "@id": "node/133193958",
+        "addr:street": "Charlemont Mall",
+        "amenity": "pub",
+        "name": "The Barge Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2605878,
+          53.3305512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/232040102",
+      "properties": {
+        "@id": "node/232040102",
+        "addr:city": "Dublin",
+        "addr:country": "IE",
+        "addr:housenumber": "85",
+        "addr:street": "George's Street Great South",
+        "amenity": "pub",
+        "contact:email": "info@thegeorge.ie",
+        "contact:phone": "+353 1 6776943",
+        "gay": "yes",
+        "name": "The George",
+        "website": "http://www.thegeorge.ie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2646106,
+          53.3436739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/232040604",
+      "properties": {
+        "@id": "node/232040604",
+        "amenity": "pub",
+        "name": "The Dragon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2647928,
+          53.3422521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/232042456",
+      "properties": {
+        "@id": "node/232042456",
+        "addr:street": "Burgh Quay",
+        "amenity": "pub",
+        "microbrewery": "yes",
+        "name": "J.W. Sweetman",
+        "phone": "+353 1 6705777",
+        "website": "http://www.jwsweetman.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2582078,
+          53.3469754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/256880032",
+      "properties": {
+        "@id": "node/256880032",
+        "addr:city": "Dublin",
+        "addr:country": "IE",
+        "addr:street": "Parliament Sreet",
+        "amenity": "pub",
+        "contact:email": "info@thefrontlounge.ie",
+        "contact:phone": "+353 1 670 4112",
+        "contact:twitter": "frontlounge",
+        "facebook": "frontlounge",
+        "gay": "yes",
+        "name": "The Front Lounge",
+        "note": "This is the same establishment as the Back Lounge nearby",
+        "website": "http://www.thefrontlounge.ie",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.267547,
+          53.3444281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/262387355",
+      "properties": {
+        "@id": "node/262387355",
+        "addr:housenumber": "24-25",
+        "addr:street": "Camden Street Upper",
+        "amenity": "pub",
+        "name": "The Bleeding Horse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2647564,
+          53.3335407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/274976604",
+      "properties": {
+        "@id": "node/274976604",
+        "amenity": "pub",
+        "name": "The Lord Edward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2701866,
+          53.3431154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/278857698",
+      "properties": {
+        "@id": "node/278857698",
+        "amenity": "pub",
+        "name": "The Long Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2652848,
+          53.3418255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/279363837",
+      "properties": {
+        "@id": "node/279363837",
+        "amenity": "pub",
+        "name": "The Oliver St John Gogarty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2616147,
+          53.3456347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/279363844",
+      "properties": {
+        "@id": "node/279363844",
+        "amenity": "pub",
+        "name": "The Auld Dubliner"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2619775,
+          53.3455629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/279364656",
+      "properties": {
+        "@id": "node/279364656",
+        "amenity": "pub",
+        "name": "The Temple Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2642025,
+          53.3454662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/279364763",
+      "properties": {
+        "@id": "node/279364763",
+        "amenity": "pub",
+        "name": "Ha'penny Bridge Inn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2634678,
+          53.3458335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/279462989",
+      "properties": {
+        "@id": "node/279462989",
+        "addr:housenumber": "33",
+        "addr:street": "Richmond Street South",
+        "amenity": "pub",
+        "name": "The Portobello"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.264203,
+          53.330334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/279464425",
+      "properties": {
+        "@id": "node/279464425",
+        "amenity": "pub",
+        "name": "The Lower Deck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2652913,
+          53.3306691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/279915988",
+      "properties": {
+        "@id": "node/279915988",
+        "amenity": "pub",
+        "name": "Knightsbridge Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2609685,
+          53.3472531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/279923820",
+      "properties": {
+        "@id": "node/279923820",
+        "amenity": "pub",
+        "disused": "yes",
+        "name": "The Quill (Closed)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2756942,
+          53.3459382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/280958210",
+      "properties": {
+        "@id": "node/280958210",
+        "addr:city": "Dublin",
+        "addr:country": "IE",
+        "addr:housenumber": "129",
+        "addr:street": "The Coombe",
+        "amenity": "pub",
+        "name": "Fallon's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2733731,
+          53.3390094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/282342105",
+      "properties": {
+        "@id": "node/282342105",
+        "addr:city": "Dublin",
+        "addr:country": "IE",
+        "addr:housenumber": "18",
+        "addr:street": "Lombard Street East",
+        "amenity": "pub",
+        "name": "The Wind Jammer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2483476,
+          53.3452765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/291601650",
+      "properties": {
+        "@id": "node/291601650",
+        "amenity": "pub",
+        "name": "Doheny and Nesbitt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2527717,
+          53.3380097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/291601851",
+      "properties": {
+        "@id": "node/291601851",
+        "addr:city": "Dublin",
+        "addr:housename": "The Baggot Inn",
+        "addr:housenumber": "143",
+        "addr:postcode": "Dublin 2",
+        "addr:street": "Baggot Street Lower",
+        "amenity": "pub",
+        "name": "The Baggot Inn",
+        "note": "We accept Bitcoin",
+        "payment:bitcoin": "yes",
+        "phone": "+353 1 6618758",
+        "website": "http://www.thebaggotinn.ie/",
+        "wifi": "free"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2527789,
+          53.337835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/298003716",
+      "properties": {
+        "@id": "node/298003716",
+        "addr:housenumber": "1",
+        "addr:street": "Clanbrassil Street Upper",
+        "amenity": "pub",
+        "name": "Leonard's Corner"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2753681,
+          53.3321604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/298085560",
+      "properties": {
+        "@id": "node/298085560",
+        "addr:street": "Fenian Street",
+        "amenity": "pub",
+        "name": "The Gingerman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2495572,
+          53.3418488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/298094845",
+      "properties": {
+        "@id": "node/298094845",
+        "amenity": "pub",
+        "name": "Thomas Read's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2671595,
+          53.344215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/298721803",
+      "properties": {
+        "@id": "node/298721803",
+        "amenity": "pub",
+        "name": "The Old Harbour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2885758,
+          53.3424956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/303968050",
+      "properties": {
+        "@id": "node/303968050",
+        "addr:street": "Pearse Street",
+        "amenity": "pub",
+        "name": "Padraig Pearse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2448585,
+          53.3433903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/305312748",
+      "properties": {
+        "@id": "node/305312748",
+        "amenity": "pub",
+        "name": "The Czech Inn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2679467,
+          53.3449133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/305312829",
+      "properties": {
+        "@id": "node/305312829",
+        "addr:housenumber": "14-15",
+        "addr:street": "Ormond Quay Upper",
+        "amenity": "pub",
+        "name": "Sin Ã‰"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2695912,
+          53.3459356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/306276661",
+      "properties": {
+        "@id": "node/306276661",
+        "amenity": "pub",
+        "name": "Sub Lounge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2542332,
+          53.3469085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/310408293",
+      "properties": {
+        "@id": "node/310408293",
+        "amenity": "pub",
+        "food": "yes",
+        "internet_access": "wlan",
+        "name": "Bull & Castle",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2698992,
+          53.343428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/311099928",
+      "properties": {
+        "@id": "node/311099928",
+        "amenity": "pub",
+        "name": "The Woolshed"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2671226,
+          53.3502723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/311343046",
+      "properties": {
+        "@id": "node/311343046",
+        "addr:city": "Dublin",
+        "addr:country": "IE",
+        "addr:housenumber": "42",
+        "addr:street": "Middle Abbey Street",
+        "amenity": "pub",
+        "name": "Gin Palace"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2634401,
+          53.3478458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/311990163",
+      "properties": {
+        "@id": "node/311990163",
+        "addr:street": "Ranelagh",
+        "amenity": "pub",
+        "name": "The Taphouse",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2542709,
+          53.3250668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/330137678",
+      "properties": {
+        "@id": "node/330137678",
+        "amenity": "pub",
+        "name": "Neary's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2611829,
+          53.3406929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/358543320",
+      "properties": {
+        "@id": "node/358543320",
+        "addr:housenumber": "27",
+        "addr:street": "Dolphin's Barn Street",
+        "amenity": "pub",
+        "name": "Lowes Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2906371,
+          53.333764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/358543587",
+      "properties": {
+        "@id": "node/358543587",
+        "amenity": "pub",
+        "name": "The Bird Flanagan",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.299192,
+          53.3365462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/358549450",
+      "properties": {
+        "@id": "node/358549450",
+        "amenity": "pub",
+        "name": "Whelan's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2655458,
+          53.3365114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/367411336",
+      "properties": {
+        "@id": "node/367411336",
+        "addr:housenumber": "36",
+        "addr:street": "George's Street Great South",
+        "amenity": "pub",
+        "name": "Hogan's Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.264629,
+          53.3420378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/367412910",
+      "properties": {
+        "@id": "node/367412910",
+        "amenity": "pub",
+        "name": "McDaid's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2609486,
+          53.3412044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/440860228",
+      "properties": {
+        "@id": "node/440860228",
+        "addr:street": "Fassaugh Avenue",
+        "amenity": "pub",
+        "name": "The Cabra House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2985855,
+          53.3674068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/440860302",
+      "properties": {
+        "@id": "node/440860302",
+        "addr:street": "Fassaugh Avenue",
+        "amenity": "pub",
+        "name": "E. McGraths",
+        "wifi": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2931695,
+          53.3669869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/446782189",
+      "properties": {
+        "@id": "node/446782189",
+        "addr:housenumber": "4",
+        "addr:street": "Dame Lane",
+        "amenity": "pub",
+        "name": "4 Dame Lane",
+        "website": "http://www.4damelane.ie/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2629135,
+          53.3437834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/446782646",
+      "properties": {
+        "@id": "node/446782646",
+        "addr:housenumber": "8-9",
+        "addr:street": "William Street South",
+        "amenity": "pub",
+        "name": "Dakota",
+        "website": "http://www.dakotabar.ie/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2624474,
+          53.3425795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/446782762",
+      "properties": {
+        "@id": "node/446782762",
+        "addr:street": "Exchequer Street",
+        "amenity": "pub",
+        "name": "The Old Stand",
+        "website": "http://www.theoldstandpub.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2621871,
+          53.343106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/446783204",
+      "properties": {
+        "@id": "node/446783204",
+        "amenity": "pub",
+        "name": "The Bailey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2592399,
+          53.3419764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/446783346",
+      "properties": {
+        "@id": "node/446783346",
+        "amenity": "pub",
+        "name": "O'Donoghue's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2541216,
+          53.3381781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/446783386",
+      "properties": {
+        "@id": "node/446783386",
+        "amenity": "pub",
+        "name": "The Swan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2657046,
+          53.3396163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/446783401",
+      "properties": {
+        "@id": "node/446783401",
+        "addr:housenumber": "26",
+        "addr:street": "Wexford Street",
+        "amenity": "pub",
+        "name": "Opium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.265609,
+          53.336681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/446783419",
+      "properties": {
+        "@id": "node/446783419",
+        "addr:city": "Dublin",
+        "addr:housenumber": "18",
+        "addr:street": "Camden Street Lower",
+        "amenity": "pub",
+        "name": "Anseo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2650552,
+          53.3352843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/446785612",
+      "properties": {
+        "@id": "node/446785612",
+        "amenity": "pub",
+        "name": "The Homestead"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.290465,
+          53.3621863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/446785628",
+      "properties": {
+        "@id": "node/446785628",
+        "amenity": "pub",
+        "name": "Dice Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2803579,
+          53.3471088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/446785642",
+      "properties": {
+        "@id": "node/446785642",
+        "addr:city": "Dublin",
+        "addr:country": "IE",
+        "addr:housenumber": "5",
+        "addr:street": "Queen Street",
+        "amenity": "pub",
+        "name": "Frank Ryan's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2800795,
+          53.3469517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/446785722",
+      "properties": {
+        "@id": "node/446785722",
+        "addr:housenumber": "6,7",
+        "amenity": "pub",
+        "name": "J Walshes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2816956,
+          53.3504129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/446785803",
+      "properties": {
+        "@id": "node/446785803",
+        "amenity": "pub",
+        "name": "Hanlon's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2887316,
+          53.3573621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/460836816",
+      "properties": {
+        "@id": "node/460836816",
+        "addr:city": "Dublin",
+        "addr:country": "IE",
+        "addr:housenumber": "514",
+        "addr:street": "North Circular Road",
+        "amenity": "pub",
+        "name": "The Hogan Stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2551979,
+          53.3583911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/460836900",
+      "properties": {
+        "@id": "node/460836900",
+        "amenity": "pub",
+        "name": "Turk's Head"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2676803,
+          53.3447932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/460836909",
+      "properties": {
+        "@id": "node/460836909",
+        "amenity": "pub",
+        "name": "Mezz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2647682,
+          53.3446795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/460836940",
+      "properties": {
+        "@id": "node/460836940",
+        "amenity": "pub",
+        "name": "O'Shea's Merchant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2757517,
+          53.3451273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/460836949",
+      "properties": {
+        "@id": "node/460836949",
+        "amenity": "pub",
+        "name": "Brazen Head"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.276351,
+          53.3449779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/460836997",
+      "properties": {
+        "@id": "node/460836997",
+        "amenity": "pub",
+        "name": "Gill's Corner House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2543617,
+          53.3584678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/467744838",
+      "properties": {
+        "@id": "node/467744838",
+        "amenity": "pub",
+        "name": "Toddys Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2608417,
+          53.3518553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/467744840",
+      "properties": {
+        "@id": "node/467744840",
+        "addr:housenumber": "19",
+        "amenity": "pub",
+        "name": "Madigans"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2606299,
+          53.3514089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/467744848",
+      "properties": {
+        "@id": "node/467744848",
+        "addr:housenumber": "21",
+        "addr:street": "Fleet Street",
+        "amenity": "pub",
+        "name": "The Palace Bar",
+        "website": "thepalacebardublin.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2598284,
+          53.345824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/467744852",
+      "properties": {
+        "@id": "node/467744852",
+        "addr:city": "Dublin",
+        "addr:country": "IE",
+        "addr:housenumber": "25",
+        "addr:street": "North Earl Street",
+        "amenity": "pub",
+        "name": "The Madigan's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2594409,
+          53.3500385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/467744854",
+      "properties": {
+        "@id": "node/467744854",
+        "addr:city": "Dublin",
+        "addr:country": "IE",
+        "addr:housenumber": "75",
+        "addr:street": "Dame Street",
+        "amenity": "pub",
+        "name": "Brogan's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2663911,
+          53.3442904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/467744856",
+      "properties": {
+        "@id": "node/467744856",
+        "addr:city": "Dublin",
+        "addr:country": "IE",
+        "addr:housenumber": "81",
+        "addr:street": "Talbot Street",
+        "amenity": "pub",
+        "name": "The Celt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2548867,
+          53.3505727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/467744860",
+      "properties": {
+        "@id": "node/467744860",
+        "amenity": "pub",
+        "name": "Eamonn Doran's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2625995,
+          53.3451467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/467744902",
+      "properties": {
+        "@id": "node/467744902",
+        "amenity": "pub",
+        "name": "Big Tree Tavern"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.260942,
+          53.3597953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/470326890",
+      "properties": {
+        "@id": "node/470326890",
+        "addr:city": "Dublin",
+        "addr:country": "IE",
+        "addr:housenumber": "30",
+        "addr:street": "Gardiner Street Middle",
+        "amenity": "pub",
+        "name": "Hill 16"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2572559,
+          53.3549162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/470326900",
+      "properties": {
+        "@id": "node/470326900",
+        "addr:city": "Dublin",
+        "addr:country": "IE",
+        "addr:housenumber": "77",
+        "addr:street": "North King Street",
+        "amenity": "pub",
+        "name": "Cobblestone",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2778577,
+          53.3498282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/470326923",
+      "properties": {
+        "@id": "node/470326923",
+        "amenity": "pub",
+        "name": "Beerhouse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.270098,
+          53.350934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/479092745",
+      "properties": {
+        "@id": "node/479092745",
+        "addr:city": "Dublin",
+        "addr:country": "IE",
+        "addr:housenumber": "83",
+        "addr:street": "Morehampton Road",
+        "amenity": "pub",
+        "name": "McCloskeys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.240416,
+          53.3243871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/480606988",
+      "properties": {
+        "@id": "node/480606988",
+        "amenity": "pub",
+        "name": "The Black Sheep"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2691542,
+          53.3497856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/491319638",
+      "properties": {
+        "@id": "node/491319638",
+        "amenity": "pub",
+        "name": "The Red Parrott"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2596585,
+          53.3610529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/491319684",
+      "properties": {
+        "@id": "node/491319684",
+        "amenity": "pub",
+        "name": "Fagans"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2555544,
+          53.3675277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/491319691",
+      "properties": {
+        "@id": "node/491319691",
+        "amenity": "pub",
+        "name": "Kennedys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2556947,
+          53.3671409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/496871721",
+      "properties": {
+        "@id": "node/496871721",
+        "amenity": "pub",
+        "name": "Smyths"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.271879,
+          53.3639811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/503224346",
+      "properties": {
+        "@id": "node/503224346",
+        "addr:city": "Dublin",
+        "addr:country": "IE",
+        "addr:housenumber": "12",
+        "addr:street": "Aungier Street",
+        "amenity": "pub",
+        "name": "J.J. Smyth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2654253,
+          53.3405863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/503224354",
+      "properties": {
+        "@id": "node/503224354",
+        "addr:street": "Wexford Street",
+        "amenity": "pub",
+        "name": "Solas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2656991,
+          53.3369377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/516031805",
+      "properties": {
+        "@id": "node/516031805",
+        "addr:street": "Hanover Quay",
+        "amenity": "pub",
+        "name": "Ely"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2381779,
+          53.3443491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/517933293",
+      "properties": {
+        "@id": "node/517933293",
+        "amenity": "pub",
+        "name": "Murray's Bar",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2968145,
+          53.3424449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/538103859",
+      "properties": {
+        "@id": "node/538103859",
+        "addr:city": "Dublin",
+        "addr:country": "IE",
+        "addr:housenumber": "159",
+        "addr:street": "Phibsborough Road",
+        "amenity": "pub",
+        "name": "The Hut"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2724939,
+          53.3609827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/549665007",
+      "properties": {
+        "@id": "node/549665007",
+        "addr:city": "Dublin",
+        "addr:country": "IE",
+        "addr:street": "Exchange Street",
+        "amenity": "pub",
+        "contact:email": "info@thefrontlounge.ie",
+        "contact:phone": "+353 1 417 9900",
+        "contact:twitter": "frontlounge",
+        "facebook": "frontlounge",
+        "gay": "yes",
+        "name": "The Back Lounge",
+        "note": "This is the same establishment as the Front Lounge nearby",
+        "website": "http://www.thefrontlounge.ie",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2679333,
+          53.3443688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/549665011",
+      "properties": {
+        "@id": "node/549665011",
+        "amenity": "pub",
+        "name": "Sin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2658339,
+          53.3445794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/559485123",
+      "properties": {
+        "@id": "node/559485123",
+        "addr:city": "Dublin",
+        "addr:country": "IE",
+        "addr:housenumber": "11",
+        "addr:street": "Temple Bar",
+        "amenity": "pub",
+        "name": "The Quays Bar",
+        "name:ga": "Teic na Ceibe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2634165,
+          53.3456404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/559854615",
+      "properties": {
+        "@id": "node/559854615",
+        "addr:city": "Dublin",
+        "addr:country": "IE",
+        "addr:housenumber": "11",
+        "addr:street": "George's Street Great South",
+        "amenity": "pub",
+        "name": "The Globe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2642836,
+          53.3433784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/562072082",
+      "properties": {
+        "@id": "node/562072082",
+        "addr:city": "Dublin",
+        "addr:country": "IE",
+        "addr:housenumber": "74",
+        "addr:street": "Talbot Street",
+        "amenity": "pub",
+        "name": "Mother Kelly's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2529113,
+          53.3508694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/564399648",
+      "properties": {
+        "@id": "node/564399648",
+        "amenity": "pub",
+        "name": "Corrigans"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2616703,
+          53.3275519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/564977233",
+      "properties": {
+        "@id": "node/564977233",
+        "amenity": "pub",
+        "food": "yes",
+        "name": "Peggy Kelly's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.278389,
+          53.323646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/583257143",
+      "properties": {
+        "@id": "node/583257143",
+        "amenity": "pub",
+        "name": "Kate McAuley"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2733979,
+          53.3362478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/583411333",
+      "properties": {
+        "@id": "node/583411333",
+        "addr:housenumber": "3",
+        "addr:street": "Fade St",
+        "amenity": "pub",
+        "name": "The Bar with no name"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2641241,
+          53.3419217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/592066036",
+      "properties": {
+        "@id": "node/592066036",
+        "addr:housenumber": "31-32",
+        "addr:street": "Mount Street Lower",
+        "amenity": "pub",
+        "name": "Oil Can Harry's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.243188,
+          53.338371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/600915452",
+      "properties": {
+        "@id": "node/600915452",
+        "abandoned": "yes",
+        "amenity": "pub",
+        "name": "Odeon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.262368,
+          53.3333475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/612623532",
+      "properties": {
+        "@id": "node/612623532",
+        "amenity": "pub",
+        "name": "Shearys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.304945,
+          53.328038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/613230589",
+      "properties": {
+        "@id": "node/613230589",
+        "amenity": "pub",
+        "name": "The Oak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2669784,
+          53.3442279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/613230592",
+      "properties": {
+        "@id": "node/613230592",
+        "amenity": "pub",
+        "name": "The Lotts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2633612,
+          53.3473641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/616479695",
+      "properties": {
+        "@id": "node/616479695",
+        "addr:housenumber": "7",
+        "amenity": "pub",
+        "name": "Hourican's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2568022,
+          53.3357173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/616479707",
+      "properties": {
+        "@id": "node/616479707",
+        "addr:housenumber": "104",
+        "amenity": "pub",
+        "name": "Alfie Mulligan's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2570056,
+          53.3361658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/616479728",
+      "properties": {
+        "@id": "node/616479728",
+        "addr:housenumber": "100",
+        "amenity": "pub",
+        "name": "Hartigan's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2566678,
+          53.3359609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/632666705",
+      "properties": {
+        "@id": "node/632666705",
+        "addr:housenumber": "83",
+        "amenity": "pub",
+        "name": "Delaney"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2788764,
+          53.3498707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/632673877",
+      "properties": {
+        "@id": "node/632673877",
+        "addr:housenumber": "78",
+        "addr:street": "Queen Street",
+        "amenity": "pub",
+        "name": "McGettigans"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2803,
+          53.347312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/632756503",
+      "properties": {
+        "@id": "node/632756503",
+        "amenity": "pub",
+        "name": "Hynes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2866453,
+          53.3542361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/635273448",
+      "properties": {
+        "@id": "node/635273448",
+        "amenity": "pub",
+        "name": "The Capel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2704646,
+          53.3492625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/635338239",
+      "properties": {
+        "@id": "node/635338239",
+        "amenity": "pub",
+        "name": "O'Reilly Bros."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2717761,
+          53.3456393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/636958169",
+      "properties": {
+        "@id": "node/636958169",
+        "amenity": "pub",
+        "cuisine": "regional",
+        "name": "Madigans Bar&Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.249469,
+          53.3514717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/650211990",
+      "properties": {
+        "@id": "node/650211990",
+        "amenity": "pub",
+        "name": "The Tap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2748187,
+          53.3502119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/651798455",
+      "properties": {
+        "@id": "node/651798455",
+        "addr:city": "Dublin",
+        "addr:country": "IE",
+        "addr:housenumber": "6",
+        "addr:street": "Camden Street Lower",
+        "amenity": "pub",
+        "name": "Flannery's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2652632,
+          53.3361126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/652654188",
+      "properties": {
+        "@id": "node/652654188",
+        "amenity": "pub",
+        "name": "The Waxie Dargle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.266845,
+          53.354021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/660624271",
+      "properties": {
+        "@id": "node/660624271",
+        "amenity": "pub",
+        "name": "Chaplin's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2571777,
+          53.3461745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/667761838",
+      "properties": {
+        "@id": "node/667761838",
+        "amenity": "pub",
+        "name": "Foggy Dew"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2634807,
+          53.3444328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/677596888",
+      "properties": {
+        "@id": "node/677596888",
+        "amenity": "pub",
+        "name": "River Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2584276,
+          53.3468848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/685996809",
+      "properties": {
+        "@id": "node/685996809",
+        "amenity": "pub",
+        "name": "Robert Reade"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2528682,
+          53.3503835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/689369512",
+      "properties": {
+        "@id": "node/689369512",
+        "amenity": "pub",
+        "name": "McGowan's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2739217,
+          53.356645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/698087515",
+      "properties": {
+        "@id": "node/698087515",
+        "amenity": "pub",
+        "name": "Clarke's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2733062,
+          53.3588764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/698649133",
+      "properties": {
+        "@id": "node/698649133",
+        "addr:city": "Dublin",
+        "addr:country": "IE",
+        "addr:full": "45 Nassau Street,  Dublin 2, Ireland",
+        "addr:housenumber": "45",
+        "addr:street": "Nassau Street",
+        "amenity": "pub",
+        "microbrewery": "yes",
+        "name": "Porterhouse Central",
+        "website": "http://www.porterhousebrewco.com/central.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.258873,
+          53.3429944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/725099916",
+      "properties": {
+        "@id": "node/725099916",
+        "addr:housenumber": "1",
+        "addr:street": "Amiens Street",
+        "amenity": "pub",
+        "craft_beer": "yes",
+        "name": "The Brew Dock",
+        "website": "http://www.winefoodbeer.com/the-brew-dock/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2510898,
+          53.3501036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/738165498",
+      "properties": {
+        "@id": "node/738165498",
+        "amenity": "pub",
+        "disused": "yes",
+        "name": "The Belfry (closed down)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2819448,
+          53.3504909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/738165499",
+      "properties": {
+        "@id": "node/738165499",
+        "amenity": "pub",
+        "name": "L Mulligan Grocer",
+        "website": "http://www.lmulligangrocer.com/",
+        "wheelchair": "limited",
+        "wifi": "free"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2823202,
+          53.350968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/738165500",
+      "properties": {
+        "@id": "node/738165500",
+        "amenity": "pub",
+        "name": "Tommy O'Gara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2824715,
+          53.3511015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/738165501",
+      "properties": {
+        "@id": "node/738165501",
+        "amenity": "pub",
+        "name": "The Glimmer Man",
+        "website": "http://www.theglimmer.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2821068,
+          53.3508069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/739756787",
+      "properties": {
+        "@id": "node/739756787",
+        "addr:city": "Dublin",
+        "addr:country": "IE",
+        "addr:housenumber": "42",
+        "addr:street": "Camden Street Lower",
+        "amenity": "pub",
+        "name": "Cassidy's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.265103,
+          53.3340563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/739756792",
+      "properties": {
+        "@id": "node/739756792",
+        "addr:city": "Dublin",
+        "addr:housenumber": "78",
+        "addr:street": "Camden Street Lower",
+        "amenity": "pub",
+        "name": "Devitts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2653797,
+          53.3354137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/739766933",
+      "properties": {
+        "@id": "node/739766933",
+        "addr:housenumber": "11",
+        "addr:street": "Wexford Street",
+        "amenity": "pub",
+        "name": "Against The Grain",
+        "old_name": "FÃ©ile;Carnival",
+        "wifi": "free"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2654481,
+          53.3371192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/739778204",
+      "properties": {
+        "@id": "node/739778204",
+        "addr:street": "Harcourt Street",
+        "amenity": "pub",
+        "name": "Krystle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.263462,
+          53.335857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/746555642",
+      "properties": {
+        "@id": "node/746555642",
+        "amenity": "pub",
+        "name": "The Bridge House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.294492,
+          53.331802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/768231196",
+      "properties": {
+        "@id": "node/768231196",
+        "amenity": "pub",
+        "name": "Ardee House (Closed)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.279115,
+          53.3379506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/768231200",
+      "properties": {
+        "@id": "node/768231200",
+        "amenity": "pub",
+        "name": "Break for the Border"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2641191,
+          53.3410955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/768231201",
+      "properties": {
+        "@id": "node/768231201",
+        "amenity": "pub",
+        "name": "The Exchequer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2638694,
+          53.3431091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/768231204",
+      "properties": {
+        "@id": "node/768231204",
+        "amenity": "pub",
+        "name": "Sinnott's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2617022,
+          53.3400902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/768231205",
+      "properties": {
+        "@id": "node/768231205",
+        "amenity": "pub",
+        "name": "Bia Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2642908,
+          53.3412009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/768231917",
+      "properties": {
+        "@id": "node/768231917",
+        "amenity": "pub",
+        "name": "McCauley's",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2978478,
+          53.3360993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/768231918",
+      "properties": {
+        "@id": "node/768231918",
+        "amenity": "pub",
+        "name": "The Tram",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.290375,
+          53.3433891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/768520263",
+      "properties": {
+        "@id": "node/768520263",
+        "amenity": "pub",
+        "name": "The Richmond"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2746953,
+          53.3503544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/768520394",
+      "properties": {
+        "@id": "node/768520394",
+        "amenity": "pub",
+        "name": "Ryan's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2934866,
+          53.3481602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/768520395",
+      "properties": {
+        "@id": "node/768520395",
+        "amenity": "pub",
+        "name": "Nancy Hand's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2939586,
+          53.3481794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/775415430",
+      "properties": {
+        "@id": "node/775415430",
+        "addr:street": "Harcourt Street",
+        "amenity": "pub",
+        "name": "D-Two"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2629034,
+          53.3343442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/778699196",
+      "properties": {
+        "@id": "node/778699196",
+        "addr:housenumber": "29",
+        "addr:street": "Richmond Street South",
+        "amenity": "pub",
+        "name": "J. O'Connell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.264251,
+          53.330684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/780329773",
+      "properties": {
+        "@id": "node/780329773",
+        "amenity": "pub",
+        "name": "Downey's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2830916,
+          53.3611609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/791452176",
+      "properties": {
+        "@id": "node/791452176",
+        "addr:city": "Dublin",
+        "addr:country": "IE",
+        "addr:housenumber": "19",
+        "addr:street": "Grangegorman Lower",
+        "amenity": "pub",
+        "name": "The Grange Inn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2797149,
+          53.3522029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/830659393",
+      "properties": {
+        "@id": "node/830659393",
+        "amenity": "pub",
+        "name": "Carvery Bar",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2927452,
+          53.3466595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/880887465",
+      "properties": {
+        "@id": "node/880887465",
+        "amenity": "pub",
+        "name": "Clonliffe House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2427098,
+          53.3613064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/882292493",
+      "properties": {
+        "@id": "node/882292493",
+        "amenity": "pub",
+        "name": "The Gate Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3032559,
+          53.3286347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/882292497",
+      "properties": {
+        "@id": "node/882292497",
+        "amenity": "pub",
+        "name": "Barn House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2927681,
+          53.3322249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/890854720",
+      "properties": {
+        "@id": "node/890854720",
+        "amenity": "pub",
+        "name": "Cleary's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2494579,
+          53.3522823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/911170200",
+      "properties": {
+        "@id": "node/911170200",
+        "amenity": "pub",
+        "name": "Karma Stone",
+        "note": "formerly Shine, The Cornerstone, The Junction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2658523,
+          53.3375951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/911195157",
+      "properties": {
+        "@id": "node/911195157",
+        "addr:city": "Dublin",
+        "addr:housenumber": "92",
+        "addr:street": "Camden Street Lower",
+        "amenity": "pub",
+        "name": "Ryan's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2654711,
+          53.3363207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/943350470",
+      "properties": {
+        "@id": "node/943350470",
+        "amenity": "pub",
+        "designation": "Gastropub",
+        "name": "The house that Jack built"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2776667,
+          53.3267496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/943350476",
+      "properties": {
+        "@id": "node/943350476",
+        "addr:housenumber": "29",
+        "addr:street": "Clanbrassil Street Upper",
+        "amenity": "pub",
+        "name": "Francis McKenna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.275613,
+          53.3304221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/943350478",
+      "properties": {
+        "@id": "node/943350478",
+        "addr:housenumber": "34-35",
+        "addr:street": "Clanbrassil Street Upper",
+        "amenity": "pub",
+        "name": "The Harold House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.275188,
+          53.330274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/957077887",
+      "properties": {
+        "@id": "node/957077887",
+        "amenity": "pub",
+        "name": "The Dean Swift"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2746108,
+          53.3412468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/970822325",
+      "properties": {
+        "@id": "node/970822325",
+        "addr:city": "Dublin",
+        "addr:country": "IE",
+        "addr:housenumber": "160",
+        "addr:street": "Phibsborough Road",
+        "amenity": "pub",
+        "name": "John Doyle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2725085,
+          53.3609221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/970822341",
+      "properties": {
+        "@id": "node/970822341",
+        "addr:city": "Dublin",
+        "addr:country": "IE",
+        "addr:housenumber": "66",
+        "addr:street": "Phibsborough Road",
+        "amenity": "pub",
+        "name": "McGeough's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2729169,
+          53.3608463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/976646849",
+      "properties": {
+        "@id": "node/976646849",
+        "addr:street": "Thomas Street",
+        "amenity": "pub",
+        "name": "The Clock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2793973,
+          53.3429504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1153979303",
+      "properties": {
+        "@id": "node/1153979303",
+        "amenity": "pub",
+        "name": "The Confession Box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2583864,
+          53.3503347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1260538148",
+      "properties": {
+        "@id": "node/1260538148",
+        "amenity": "pub",
+        "name": "The Malt House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2910348,
+          53.3429876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1300613610",
+      "properties": {
+        "@id": "node/1300613610",
+        "amenity": "pub",
+        "name": "Dame Tavern"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.263866,
+          53.3437674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1307581816",
+      "properties": {
+        "@id": "node/1307581816",
+        "addr:housenumber": "13",
+        "addr:street": "High Street",
+        "amenity": "pub",
+        "name": "Ryan's Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.273416,
+          53.343275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1326700611",
+      "properties": {
+        "@id": "node/1326700611",
+        "amenity": "pub",
+        "disused": "no",
+        "name": "Big's Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2838128,
+          53.3470597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1326700619",
+      "properties": {
+        "@id": "node/1326700619",
+        "amenity": "pub",
+        "disused": "yes",
+        "name": "Noel Leonards (Closed)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2843718,
+          53.3464035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1332272327",
+      "properties": {
+        "@id": "node/1332272327",
+        "amenity": "pub",
+        "name": "The Millenium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2900462,
+          53.3480466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1349656251",
+      "properties": {
+        "@id": "node/1349656251",
+        "amenity": "pub",
+        "name": "The Temple"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2637676,
+          53.3573745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1373919801",
+      "properties": {
+        "@id": "node/1373919801",
+        "amenity": "pub",
+        "name": "The Hill Top"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.281063,
+          53.3432707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1373977813",
+      "properties": {
+        "@id": "node/1373977813",
+        "addr:housenumber": "61-63",
+        "addr:street": "Meath Street",
+        "amenity": "pub",
+        "name": "The Fountain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.27815,
+          53.3406636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1373979474",
+      "properties": {
+        "@id": "node/1373979474",
+        "amenity": "pub",
+        "name": "The Lamplighter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2780884,
+          53.3397428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1374466529",
+      "properties": {
+        "@id": "node/1374466529",
+        "addr:housenumber": "33",
+        "addr:street": "Francis Street",
+        "amenity": "pub",
+        "name": "The Liberty Belle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.274883,
+          53.341565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1403120910",
+      "properties": {
+        "@id": "node/1403120910",
+        "addr:housenumber": "65",
+        "addr:street": "Thomas Street",
+        "amenity": "pub",
+        "name": "Tom Kennedy's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2772918,
+          53.3427182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1403290063",
+      "properties": {
+        "@id": "node/1403290063",
+        "addr:housenumber": "86",
+        "addr:street": "Thomas Street",
+        "amenity": "pub",
+        "name": "The Thomas House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.276838,
+          53.343072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1404763943",
+      "properties": {
+        "@id": "node/1404763943",
+        "addr:city": "Dublin",
+        "addr:housenumber": "80-81",
+        "addr:street": "Meath Street",
+        "amenity": "pub",
+        "name": "The Lark Inn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.278673,
+          53.341684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1404763983",
+      "properties": {
+        "@id": "node/1404763983",
+        "addr:housenumber": "78",
+        "addr:street": "Meath Street",
+        "amenity": "pub",
+        "name": "The Liberty Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2785349,
+          53.3414826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1404772647",
+      "properties": {
+        "@id": "node/1404772647",
+        "addr:housenumber": "62",
+        "addr:street": "Pimlico",
+        "amenity": "pub",
+        "name": "The Pimlico Tavern"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.280709,
+          53.34013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1408498164",
+      "properties": {
+        "@id": "node/1408498164",
+        "addr:housenumber": "25",
+        "addr:street": "The Coombe",
+        "amenity": "pub",
+        "name": "Shanahan's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.275659,
+          53.33975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1418488476",
+      "properties": {
+        "@id": "node/1418488476",
+        "addr:housenumber": "15",
+        "addr:street": "Stephen Street Upper",
+        "amenity": "pub",
+        "food": "yes",
+        "name": "The Snug Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2657823,
+          53.3414249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1423518711",
+      "properties": {
+        "@id": "node/1423518711",
+        "alt_name": "Fitzsimons Glasnevin",
+        "amenity": "pub",
+        "name": "The Botanic House",
+        "website": "www.thebotanichouse.ie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.271063,
+          53.36671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1423559526",
+      "properties": {
+        "@id": "node/1423559526",
+        "amenity": "pub",
+        "name": "Citi Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.263706,
+          53.3443064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1423559556",
+      "properties": {
+        "@id": "node/1423559556",
+        "amenity": "pub",
+        "food": "yes",
+        "name": "Bad Bob's",
+        "website": "http://www.purtykitchen.com/gastro-bar-food/temple-bar/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.265941,
+          53.345052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1423586892",
+      "properties": {
+        "@id": "node/1423586892",
+        "addr:housenumber": "21",
+        "addr:street": "Duke Street",
+        "amenity": "pub",
+        "name": "Davy Byrne's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2594572,
+          53.3418489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1423586904",
+      "properties": {
+        "@id": "node/1423586904",
+        "addr:housenumber": "9",
+        "addr:street": "Duke Street",
+        "amenity": "pub",
+        "name": "The Duke"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2587756,
+          53.3419126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1426048610",
+      "properties": {
+        "@id": "node/1426048610",
+        "amenity": "pub",
+        "name": "The Bernard Shaw"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2644229,
+          53.3316386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1426051344",
+      "properties": {
+        "@id": "node/1426051344",
+        "amenity": "pub",
+        "name": "The Hill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2583564,
+          53.326641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1426051345",
+      "properties": {
+        "@id": "node/1426051345",
+        "amenity": "pub",
+        "food": "yes",
+        "name": "The Irish House Pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2753626,
+          53.3424366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1426100409",
+      "properties": {
+        "@id": "node/1426100409",
+        "amenity": "pub",
+        "name": "Morrissey's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2874547,
+          53.3369065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1426100412",
+      "properties": {
+        "@id": "node/1426100412",
+        "amenity": "pub",
+        "name": "Pifko Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2802844,
+          53.3460172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1430846984",
+      "properties": {
+        "@id": "node/1430846984",
+        "amenity": "pub",
+        "name": "The Pembroke"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2518086,
+          53.3369723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1430847139",
+      "properties": {
+        "@id": "node/1430847139",
+        "amenity": "pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.295614,
+          53.3313043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1431043152",
+      "properties": {
+        "@id": "node/1431043152",
+        "amenity": "pub",
+        "name": "Farrington's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2648297,
+          53.3453628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1431043154",
+      "properties": {
+        "@id": "node/1431043154",
+        "addr:city": "Dublin",
+        "addr:country": "IE",
+        "addr:housenumber": "18",
+        "addr:street": "Essex Street East",
+        "amenity": "pub",
+        "name": "Fitzsimon's",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2651087,
+          53.3454409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1431043167",
+      "properties": {
+        "@id": "node/1431043167",
+        "amenity": "pub",
+        "name": "Dark Horse Inn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2558302,
+          53.3473653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1453547784",
+      "properties": {
+        "@id": "node/1453547784",
+        "amenity": "pub",
+        "name": "The Bridge Tavern"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2489314,
+          53.3573225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1484699982",
+      "properties": {
+        "@id": "node/1484699982",
+        "amenity": "pub",
+        "name": "Kavanagh's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2859244,
+          53.3533563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1484700825",
+      "properties": {
+        "@id": "node/1484700825",
+        "amenity": "pub",
+        "name": "Forum Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2685415,
+          53.3440629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1494148993",
+      "properties": {
+        "@id": "node/1494148993",
+        "addr:housenumber": "10",
+        "addr:street": "Wellington Quay",
+        "amenity": "pub",
+        "name": "The Workman's Club",
+        "website": "http://www.theworkmansclub.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2668315,
+          53.3453414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1497918245",
+      "properties": {
+        "@id": "node/1497918245",
+        "amenity": "pub",
+        "name": "The Sunset House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2493832,
+          53.3570266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1508855041",
+      "properties": {
+        "@id": "node/1508855041",
+        "amenity": "pub",
+        "name": "The Players Lounge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2401557,
+          53.3628264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1508859465",
+      "properties": {
+        "@id": "node/1508859465",
+        "amenity": "pub",
+        "name": "Meagher's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2422642,
+          53.3626206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1508867052",
+      "properties": {
+        "@id": "node/1508867052",
+        "amenity": "pub",
+        "name": "Annesley House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2403039,
+          53.3595935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1517611772",
+      "properties": {
+        "@id": "node/1517611772",
+        "alt_name": "Patrick McGrath",
+        "amenity": "pub",
+        "name": "McGrath's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2588996,
+          53.3626219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1517611785",
+      "properties": {
+        "@id": "node/1517611785",
+        "amenity": "pub",
+        "name": "Quinn's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2579668,
+          53.3635377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1517611787",
+      "properties": {
+        "@id": "node/1517611787",
+        "addr:street": "Cambell's Row",
+        "amenity": "pub",
+        "name": "The Hideout House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2569405,
+          53.3596909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1521409481",
+      "properties": {
+        "@id": "node/1521409481",
+        "amenity": "pub",
+        "name": "Brewery Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2868779,
+          53.3404859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1593209605",
+      "properties": {
+        "@id": "node/1593209605",
+        "amenity": "pub",
+        "name": "Kavanagh's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2728689,
+          53.3363297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1659608931",
+      "properties": {
+        "@id": "node/1659608931",
+        "amenity": "pub",
+        "name": "M. Hughes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2723628,
+          53.346917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1676033691",
+      "properties": {
+        "@id": "node/1676033691",
+        "addr:street": "Fassaugh Avenue",
+        "amenity": "pub",
+        "name": "Matt's of Cabra",
+        "old_name": "Matt Whelan's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2897667,
+          53.3662372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1684858495",
+      "properties": {
+        "@id": "node/1684858495",
+        "amenity": "pub",
+        "name": "Stoney's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2604108,
+          53.3552202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1704870717",
+      "properties": {
+        "@id": "node/1704870717",
+        "addr:housenumber": "5-6",
+        "addr:street": "Dorset Street Lower",
+        "amenity": "pub",
+        "name": "W. J. Kavanagh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.263463,
+          53.357666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1712118211",
+      "properties": {
+        "@id": "node/1712118211",
+        "amenity": "pub",
+        "name": "O'Shea's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2542696,
+          53.3508625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2004443936",
+      "properties": {
+        "@id": "node/2004443936",
+        "amenity": "pub",
+        "name": "The Garage Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2662914,
+          53.3451402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2004652420",
+      "properties": {
+        "@id": "node/2004652420",
+        "addr:housenumber": "15",
+        "addr:street": "Little Mary Street",
+        "amenity": "pub",
+        "name": "Hacienda Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2702321,
+          53.3481928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2004657419",
+      "properties": {
+        "@id": "node/2004657419",
+        "addr:housenumber": "1",
+        "addr:street": "Chancery Place",
+        "amenity": "pub",
+        "name": "The Legal Eagle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2721255,
+          53.345711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2050485424",
+      "properties": {
+        "@id": "node/2050485424",
+        "amenity": "pub",
+        "name": "Burke's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2487981,
+          53.3530215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2050485425",
+      "properties": {
+        "@id": "node/2050485425",
+        "amenity": "pub",
+        "name": "Lloyd's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2491534,
+          53.3526986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2059582181",
+      "properties": {
+        "@id": "node/2059582181",
+        "amenity": "pub",
+        "name": "Bodkin's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.269929,
+          53.351328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2065178692",
+      "properties": {
+        "@id": "node/2065178692",
+        "addr:housenumber": "145",
+        "addr:street": "North Strand Road",
+        "amenity": "pub",
+        "name": "Richard Cusack's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2425414,
+          53.3575425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2068246787",
+      "properties": {
+        "@id": "node/2068246787",
+        "addr:street": "Hogan Place",
+        "amenity": "pub",
+        "name": "Doolan's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.244782,
+          53.340843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2071381884",
+      "properties": {
+        "@id": "node/2071381884",
+        "amenity": "pub",
+        "name": "The Strand House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2461465,
+          53.3550544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2071381885",
+      "properties": {
+        "@id": "node/2071381885",
+        "addr:housenumber": "45",
+        "addr:street": "Amiens Street",
+        "amenity": "pub",
+        "name": "Mullet's Pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2491504,
+          53.3526301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2131267850",
+      "properties": {
+        "@id": "node/2131267850",
+        "amenity": "pub",
+        "name": "Cumiskey's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2720844,
+          53.354343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2131267852",
+      "properties": {
+        "@id": "node/2131267852",
+        "amenity": "pub",
+        "name": "The Berkeley"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2679438,
+          53.3560761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2175861132",
+      "properties": {
+        "@id": "node/2175861132",
+        "amenity": "pub",
+        "name": "Bison bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2667024,
+          53.3453508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2292408102",
+      "properties": {
+        "@id": "node/2292408102",
+        "amenity": "pub",
+        "name": "Parnell Heritage Pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2619493,
+          53.3522936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2337208034",
+      "properties": {
+        "@id": "node/2337208034",
+        "amenity": "pub",
+        "food": "yes",
+        "name": "The Rathmines Inn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.264722,
+          53.326899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2349855098",
+      "properties": {
+        "@id": "node/2349855098",
+        "amenity": "pub",
+        "fixme": "Check exact location (it's south of GF Handel Hotel)",
+        "name": "Darkey Kelly's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2699696,
+          53.3439563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2372299960",
+      "properties": {
+        "@id": "node/2372299960",
+        "amenity": "pub",
+        "name": "The King's Inn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.269085,
+          53.352258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2372305579",
+      "properties": {
+        "@id": "node/2372305579",
+        "amenity": "pub",
+        "name": "The Long Island Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.266071,
+          53.355365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2372306728",
+      "properties": {
+        "@id": "node/2372306728",
+        "addr:housenumber": "100",
+        "addr:street": "Dorset Street Lower",
+        "amenity": "pub",
+        "name": "Glynn's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.26587,
+          53.355499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2372309923",
+      "properties": {
+        "@id": "node/2372309923",
+        "addr:housenumber": "99",
+        "addr:street": "Dorset Street Lower",
+        "amenity": "pub",
+        "name": "Delahunty's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.265773,
+          53.355613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2372312459",
+      "properties": {
+        "@id": "node/2372312459",
+        "amenity": "pub",
+        "name": "The Findlater"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.264515,
+          53.356953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2386542318",
+      "properties": {
+        "@id": "node/2386542318",
+        "amenity": "pub",
+        "name": "Peadar Kearney's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.265415,
+          53.344272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2386543441",
+      "properties": {
+        "@id": "node/2386543441",
+        "amenity": "pub",
+        "name": "Sweeney's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2629657,
+          53.3440934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2419698552",
+      "properties": {
+        "@id": "node/2419698552",
+        "amenity": "pub",
+        "name": "Buskers Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.26051,
+          53.345832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2522889960",
+      "properties": {
+        "@id": "node/2522889960",
+        "amenity": "pub",
+        "name": "Ryan's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.289078,
+          53.343539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2573726983",
+      "properties": {
+        "@id": "node/2573726983",
+        "amenity": "pub",
+        "name": "Aurora"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2641644,
+          53.3574023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2681367476",
+      "properties": {
+        "@id": "node/2681367476",
+        "amenity": "pub",
+        "name": "The Blarney Inn",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2548307,
+          53.3421258
+        ]
+      }
+    }
+  ]
+}
